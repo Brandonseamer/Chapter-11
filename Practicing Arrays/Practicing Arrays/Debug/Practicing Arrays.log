@@ -1,0 +1,14 @@
+﻿Build started 4/26/2018 12:22:27 PM.
+     1>Project "C:\Users\bs137670\Desktop\Git C++\Chapter-11\Practicing Arrays\Practicing Arrays\Practicing Arrays.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\bs137670\Desktop\Git C++\Chapter-11\Practicing Arrays\Debug\Practicing Arrays.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\bs137670\Desktop\Git C++\Chapter-11\Practicing Arrays\Debug\Practicing Arrays.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Source.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Practicing Arrays.vcxproj -> C:\Users\bs137670\Desktop\Git C++\Chapter-11\Practicing Arrays\Debug\Practicing Arrays.exe
+     1>Done Building Project "C:\Users\bs137670\Desktop\Git C++\Chapter-11\Practicing Arrays\Practicing Arrays\Practicing Arrays.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
